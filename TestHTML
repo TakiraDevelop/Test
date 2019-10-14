@@ -1,0 +1,33 @@
+<!-- BEGIN (write your solution here) -->
+<!doctype html>
+<head>
+    <meta charset="UTF-8">
+    <link href="style.css">
+    <title>Buzaeva</title>
+</head>
+<body>
+    <div id="header">
+        <h1>Buzaeva Viktoriya</h1>
+        <h3>Backend developer</h3>
+        <p>
+            <a href="mailto:uvp11@mail.ru">uvp11@mail.ru</a>,
+            <a href="https://vk.com/id195406047">vk.com/id195406047</a>
+        </p>
+    </div>
+    <div id="main">
+        <h2>�����������</h2>   
+        <ul>
+            <li>���������� �������������� �������� ��������</li>
+            <li>Hexlet</li>
+        </ul>
+
+        <h2>���� ������</h2>
+        <p>���� ������ Backend �����������</p>
+    </div>
+    <div id="footer">
+        <p>Name</p>
+        <p>Adress</p>
+        <p>Phone</p>
+        <p>E-mail</p>
+    </div>
+<!-- END -->
